@@ -1,5 +1,4 @@
-# This is a project with the intention of learning about apis and improving my knowledge of JavaScript using the arrow function
-
+# This is a project developed with the free API and to improve my JavaScript knowledge using the arrow function #javascript
 
 
 [🔵 Live Project URL](https://api-monster.netlify.app/)
